@@ -48,7 +48,7 @@ arr.forEach((item,index) => {
 console.log(new_arr);
 }
 
-console.log(firstUniqueElement([2, 3, 4, 2, 3, 6, 4, 1])); // 5
+// console.log(firstUniqueElement([2, 3, 4, 2, 3, 6, 4, 1])); // 5
 
 
 // Task 4
@@ -72,8 +72,4 @@ console.log(firstUniqueElement([2, 3, 4, 2, 3, 6, 4, 1])); // 5
     // console.log(firstUniqueElement([2, 3, 4, 2, 3, 5, 4])) // 5);
 
 // Task 5
-
-
-
-
 
